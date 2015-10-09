@@ -1,0 +1,506 @@
+{
+  "title": "Brucified Coxumentary",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "10": {
+      "title": "Alternative medicine",
+      "id": 25,
+      "ideas": {
+        "1": {
+          "title": "chelation",
+          "id": 26,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "eating right",
+          "id": 29,
+          "ideas": {
+            "1": {
+              "title": "vitamins",
+              "id": 28,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "protein",
+              "id": 32,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "exercise",
+          "id": 30,
+          "attr": {
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "Eastern Influence",
+          "id": 31,
+          "ideas": {
+            "1": {
+              "title": "acupuncture",
+              "id": 27,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "7": {
+          "title": "Native American Indian Influence",
+          "id": 35,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "teepee ceremony",
+              "id": 37,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "lophoporia williamsii (peyote)",
+              "id": 38,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "trichocerius pachinoi (san pedro)",
+              "id": 39,
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Tom Wahnee",
+              "id": 59,
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "Tom Blackstar",
+              "id": 60,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "12": {
+      "title": "Crazy Man aka the Monkey Man",
+      "id": 40,
+      "attr": {
+        "style": {},
+        "position": [
+          235,
+          82,
+          4
+        ]
+      }
+    },
+    "17": {
+      "title": "Hunting",
+      "id": 33,
+      "attr": {
+        "style": {},
+        "position": [
+          522,
+          156,
+          3
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "EZJ",
+          "id": "95.gd531a9a803d179c06"
+        },
+        "2": {
+          "title": "Currie Ranch",
+          "id": "96.gd531a9a803d179c06"
+        },
+        "3": {
+          "title": "Wilkerson Ranch",
+          "id": "97.gd531a9a803d179c06"
+        }
+      }
+    },
+    "22": {
+      "title": "Hunter S. Thompson",
+      "id": 41,
+      "ideas": {
+        "1": {
+          "title": "the meeting James setup",
+          "id": 42,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {},
+        "position": [
+          146.5,
+          215,
+          1
+        ]
+      }
+    },
+    "-10": {
+      "title": "Intro",
+      "id": 2,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-100": {
+      "title": "Big Spring, TX",
+      "id": 16,
+      "ideas": {
+        "1": {
+          "title": "Cowlper's clinic",
+          "id": 17,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "ER work",
+          "id": 18,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Brass Nail",
+          "id": 19,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Taco Villa",
+          "id": 20,
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "Malone & Hogan",
+          "id": 21,
+          "attr": {
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "Hall Bennet",
+          "id": 22,
+          "attr": {
+            "style": {}
+          }
+        },
+        "7": {
+          "title": "Medical Arts",
+          "id": 23,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-180": {
+      "title": "Santa Fe, NM",
+      "id": 24,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Skiing",
+          "id": "93.gd531a9a803d179c06"
+        }
+      }
+    },
+    "-72.5": {
+      "title": "Wimberley, TX",
+      "id": 10,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Josh",
+          "id": 11,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
+    "-15": {
+      "title": "New York, NY",
+      "id": 44,
+      "ideas": {
+        "1": {
+          "title": "Jetta",
+          "id": 4,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Anne and JT",
+          "id": 5,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-27.5": {
+      "title": "Lakewood, NJ",
+      "id": 45,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-32.1875": {
+      "title": "Austin, TX",
+      "id": 43,
+      "ideas": {
+        "1": {
+          "title": "Brackenridge / Internship",
+          "id": 8,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Sheryl",
+          "id": 9,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-31.40625": {
+      "title": "Arlington, TX",
+      "id": 46,
+      "ideas": {
+        "1": {
+          "title": "the 4 boys and early years",
+          "id": 6,
+          "attr": {
+            "style": {},
+            "position": [
+              100,
+              -90,
+              1
+            ]
+          }
+        },
+        "2": {
+          "title": "Becky",
+          "id": 12,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Steve",
+          "id": 13,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "UT Arlington",
+          "id": 48,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-31.796875": {
+      "title": "Galveston, TX",
+      "id": 47,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "UTMB",
+          "id": 7,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
+    "-21.25": {
+      "title": "San Francisco, CA",
+      "id": 49,
+      "ideas": {
+        "1": {
+          "title": "James",
+          "id": 50,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "JT naval in SA",
+          "id": 51,
+          "ideas": {
+            "1": {
+              "title": "commanding officer",
+              "id": 52,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "friends",
+              "id": 53,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-31.9921875": {
+      "title": "Basic Questions",
+      "id": "61.gd408752a77ee5c528",
+      "ideas": {
+        "1": {
+          "title": "What's your favorite moment with Bruce?",
+          "id": "63.gd408752a77ee5c528"
+        },
+        "2": {
+          "title": "How did you know Bruce?",
+          "id": "65.gd408752a77ee5c528"
+        },
+        "3": {
+          "title": "Why do you think Bruce chose medicine?",
+          "id": "67.gd408752a77ee5c528"
+        },
+        "4": {
+          "title": "What's the funniest story you remember about Bruce?",
+          "id": "69.gd408752a77ee5c528"
+        },
+        "5": {
+          "title": "What is your perception of Bruce?",
+          "id": "71.gd408752a77ee5c528"
+        },
+        "6": {
+          "title": "How did you feel about Bruce using \"alternative medicine\" in in practice?",
+          "id": "73.gd408752a77ee5c528"
+        },
+        "7": {
+          "title": "If you were involved in a smoke blessing or a ceremony - what kind?  Where?  How did if affect you?",
+          "id": "74.gd408752a77ee5c528"
+        },
+        "8": {
+          "title": "How well did you know the Cox family?",
+          "id": "75.gd408752a77ee5c528"
+        },
+        "9": {
+          "title": "What pissed you off the most about Bruce?",
+          "id": "77.gd408752a77ee5c528"
+        },
+        "10": {
+          "title": "How did you feel when he passed?",
+          "id": "80.gd408752a77ee5c528"
+        },
+        "11": {
+          "title": "What touched you the most about the man that Bruce was?",
+          "id": "82.gd408752a77ee5c528"
+        },
+        "12": {
+          "title": "What pissed you off the most about the man that Bruce was?",
+          "id": "84.gd408752a77ee5c528"
+        },
+        "13": {
+          "title": "What would you say to him, if you could right now?",
+          "id": "85.gd408752a77ee5c528"
+        },
+        "14": {
+          "title": "When you hear the word \"unconventional\" to describe Dr. Cox - what does that mean to you?",
+          "id": "86.gd408752a77ee5c528"
+        },
+        "15": {
+          "title": "What was the one situation that made you realize the kind of brilliance \nyou were sitting with, when you saw him, personally or professionally?",
+          "id": "88.gd408752a77ee5c528"
+        }
+      },
+      "attr": {
+        "position": [
+          659,
+          7,
+          2
+        ],
+        "style": {}
+      }
+    },
+    "-140": {
+      "title": "Oak Creek, TX",
+      "id": "89.gd531a9a803d179c06",
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "the boat wreck",
+          "id": "91.gd531a9a803d179c06"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {}
+  }
+}
